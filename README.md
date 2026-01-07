@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @delcioleonardorofino
-- 👀 I’m interested in Software Development, AI and Mobile Networks
-- 🌱 I’m currently learning Network Engineering
-- 💞️ I’m looking to collaborate on Mobile Networks Projects
+- 👀 I’m interested in Software Development, AI, Embedded circuits and Mobile Networks
+- 💞️ I’m looking to collaborate on projects that can change lives
 - 📫delcioleonard@gmail.com
 - 😄 Pronouns: BxdAh
 
