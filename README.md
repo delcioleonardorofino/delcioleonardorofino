@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Software Engineer
+# Hi, I'm a Software Engineer
 
 I am an Electronic Engineering senior student and Software Engineer focused on building distributed systems, scalable cloud architectures, and highly interactive user interfaces. I practice a **"Build in Public"** philosophy, turning complex architectural challenges into documented engineering workflows.
 
